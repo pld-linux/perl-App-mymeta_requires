@@ -4,7 +4,6 @@
 
 %define		pdir	App
 %define		pnam	mymeta_requires
-%include	/usr/lib/rpm/macros.perl
 Summary:	Extract module requirements from MYMETA files
 Name:		perl-App-mymeta_requires
 Version:	0.005
